@@ -1,7 +1,7 @@
 # 🎵 Decentralized Social Media for Musicians
 
 A full-stack DApp where musicians can upload their music, receive likes and connect anonymously with producers and fans. Built using React, Solidity, IPFS and Ethereum (Sepolia Testnet) — with blockchain-based ownership, messaging and interaction.
-
+check it out on: https://musicchain-decentralized-music-platform.onrender.com/
 ---
 
 ## 🚀 Features
