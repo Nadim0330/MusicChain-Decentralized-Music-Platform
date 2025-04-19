@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\yusuf\\Downloads\\Blockchain\\Project\\MusicChain-master\\contracts\\chat.sol": {
+      "lastModificationDate": 1743068596266,
+      "contentHash": "517cd5eec2cb29f42718d592f95b4b8b",
+      "sourceName": "contracts/chat.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Chat"
+      ]
+    },
+    "C:\\Users\\yusuf\\Downloads\\Blockchain\\Project\\MusicChain-master\\contracts\\MusicDApp.sol": {
+      "lastModificationDate": 1743067800400,
+      "contentHash": "f193cd9f5dbb72e9812049cd9fd31e24",
+      "sourceName": "contracts/MusicDApp.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "MusicDApp"
+      ]
+    }
+  }
+}
